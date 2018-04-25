@@ -52,6 +52,7 @@ def configure(config):
         'shorten_url_length',
         'Enter how many characters a URL should be before the bot puts a'
         ' shorter version of the URL in the title as a TinyURL link'
+        ' (0 to disable)'
     )
 
 
